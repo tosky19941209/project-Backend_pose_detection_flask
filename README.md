@@ -1,4 +1,4 @@
-# ARShadowGAN
+# Pose Detection in Website
 
 This is the Mediapipe implementation in python and React
 ![overview](assets/image.png)
